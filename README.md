@@ -1,0 +1,1 @@
+Traverses an array, A, in the shortest number of hops or returns error code if not possible. At each index, i, we are allowed to hop to any indexes from i to i + A[i].
